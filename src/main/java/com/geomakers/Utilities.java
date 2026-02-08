@@ -24,24 +24,28 @@ public class Utilities {
      * Least possible latitude for a coordinate that can be generated
      */
     // 24.396308
-    public static final double MIN_LAT = 37.216458;
+    // 37.216458
+    public static final double MIN_LAT = 24.396308;
 
 
     /**
      * Greatest possible latitude for a coordinate that can be generated
      */
     // 49.384358
-    public static final double MAX_LAT = 37.403155;
+    // 37.403155
+    public static final double MAX_LAT = 49.384358;
     /**
      * Least possible longitude for a coordinate that can be generated
      */
     //-124.848974
-    public static final double MIN_LON = -122.046610;
+    // -122.046610
+    public static final double MIN_LON = -124.848974;
     /**
      * Greatest possible longitude for a coordinate that can be generated
      */
     //-66.885444;
-    public static final double MAX_LON = -121.803114;
+    // -121.803114
+    public static final double MAX_LON = -66.885444;;
     /**
      * Calculates the distance between two GeoPositions, which
      * are intended to be the user's guess and actual locations.
