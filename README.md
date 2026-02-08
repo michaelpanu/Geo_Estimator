@@ -10,7 +10,7 @@ GeoEstimator is a Java-based geography guessing and visualization game that anal
 
 
 <p align="center">
-  <img src="images/panorama.png" width="100%" />
+  <img src="images/pano.png" width="100%" />
 </p>
 
 <br/>
